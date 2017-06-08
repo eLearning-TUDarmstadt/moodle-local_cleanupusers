@@ -3,7 +3,7 @@
 class Cleaner {
 
     // Days since last user activity
-    public static $DAYS = 390;
+    public static $DAYS = 0;
     public static $DELETION_LOG_FILE = "local_cleanupusers_deletedUsers.js";
     public static $LOG_FILE = "local_cleanupusers_log.txt";
     public static $DATE_FORMAT = "d.m.Y H:i:s";
